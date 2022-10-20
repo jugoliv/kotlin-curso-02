@@ -1,4 +1,5 @@
 fun main() {
+    // Preparativos para a versão do curso 2 Kotlin
     var conta = Conta("Moralez", 1000)
    // var conta = Conta(numero = 1000, titular = "Moralez") // inicialização utilizando labels (Named Arguments)
 //    conta.titular = "Moralez"
